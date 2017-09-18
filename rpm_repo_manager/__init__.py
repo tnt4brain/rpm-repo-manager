@@ -178,7 +178,7 @@ def load_hardcoded_defaults():
     return config
 
 
-if __name__ == '__main__':
+def main():
     try:
         cli_args = parse_command_line()
         settings = load_config(cli_args['configfile'])
@@ -215,3 +215,5 @@ if __name__ == '__main__':
     event_exit.clear()
 
 # app.run()
+if __name__ == '__main__':
+    main()
