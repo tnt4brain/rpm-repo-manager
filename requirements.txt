@@ -7,7 +7,7 @@ MarkupSafe==1.0
 packaging==16.8
 pyparsing==2.2.0
 pyrpm==0.3
-PyYAML==3.12
+PyYAML==5.1
 six==1.10.0
 uWSGI==2.0.15
 Werkzeug==0.12.1
