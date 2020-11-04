@@ -10,4 +10,4 @@ pyrpm==0.3
 PyYAML==3.12
 six==1.10.0
 uWSGI==2.0.15
-Werkzeug==0.12.1
+Werkzeug==0.15.3
